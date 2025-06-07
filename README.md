@@ -10,4 +10,4 @@ Note: Each Success or Perfect constitutes a floor
 
 For example, the first Perfect awards 50 point. The second consecutive Perfect awards 75 points. The third consecutive Perfect awards 100 points. etc.
 #DEMO
-https://iamkun.github.io/tower_game
+https://Fuzail1929.github.io/tower_game
