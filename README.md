@@ -2,7 +2,6 @@
 # Game Rule
 The following are the default game rule:
 ![image](https://github.com/user-attachments/assets/5630a795-2489-4d18-bfe5-4815dcd9c0dd)
-# link for DEMO ![image](https://github.com/user-attachments/assets/5630a795-2489-4d18-bfe5-4815dcd9c0dd)
 
 In every game player starts with 3 hp. Every time a Tower block is dropped player is deduct 1 hp; game ends when hp is depleted.
 
